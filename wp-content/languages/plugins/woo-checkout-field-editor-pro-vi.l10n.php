@@ -1,0 +1,3 @@
+<?php
+return ['project-id-version'=>'Checkout Field Editor for WooCommerce 1.5.2','report-msgid-bugs-to'=>'https://wordpress.org/support/plugin/woo-checkout-field-editor-pro','last-translator'=>'','language-team'=>'Tiếng Việt','mime-version'=>'1.0','content-type'=>'text/plain; charset=UTF-8','content-transfer-encoding'=>'8bit','pot-creation-date'=>'2021-12-17T19:23:44+05:30','po-revision-date'=>'2024-05-13 09:15+0000','x-generator'=>'Loco https://localise.biz/','x-domain'=>'woo-checkout-field-editor-pro
+','language'=>'vi','plural-forms'=>'nplurals=1; plural=0;','x-loco-version'=>'2.6.9; wp-6.5.3','messages'=>[]];

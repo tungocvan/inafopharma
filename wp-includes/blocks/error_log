@@ -1,0 +1,4 @@
+[08-May-2024 01:31:07 America/Chicago] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home1/nhathhmd/public_html/hamada/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/nhathhmd/public_html/hamada/wp-includes/blocks/index.php on line 8
